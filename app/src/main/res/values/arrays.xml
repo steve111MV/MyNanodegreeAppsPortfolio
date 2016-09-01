@@ -1,0 +1,10 @@
+<resources>
+    <array name="my_apps_list">
+        <item>Popular movies</item>
+        <item>Stock hawk</item>
+        <item>Build it bigger</item>
+        <item>Make your app bigger</item>
+        <item>Go ubiquitous</item>
+        <item>Capstone</item>
+    </array>
+</resources>
